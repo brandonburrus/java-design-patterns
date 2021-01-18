@@ -1,0 +1,7 @@
+com.brandonburrus.designpatterns.creational.abstractfactory
+com.brandonburrus.designpatterns.creational.builder
+com.brandonburrus.designpatterns.creational.builder.simple
+com.brandonburrus.designpatterns.creational.factorymethod
+com.brandonburrus.designpatterns.creational.factorymethod.staticmethod
+com.brandonburrus.designpatterns.creational.prototype
+com.brandonburrus.designpatterns.creational.singleton
