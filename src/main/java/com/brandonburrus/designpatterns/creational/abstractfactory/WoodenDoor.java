@@ -1,13 +1,24 @@
 package com.brandonburrus.designpatterns.creational.abstractfactory;
 
+/**
+ * The type Wooden door.
+ */
 public class WoodenDoor implements Door {
 
     private boolean isOpen;
 
+    /**
+     * Instantiates a new Wooden door.
+     *
+     * @param isOpen the is open
+     */
     public WoodenDoor(boolean isOpen) {
         this.isOpen = isOpen;
     }
 
+    /**
+     * Instantiates a new Wooden door.
+     */
     public WoodenDoor() {
         this(false);
     }

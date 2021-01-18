@@ -1,7 +1,15 @@
 package com.brandonburrus.designpatterns.creational.prototype;
 
+/**
+ * The type Prototype app.
+ */
 public class PrototypeApp {
 
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
     public static void main(String[] args) {
         Graphic a = new CharacterGraphic('a');
         Graphic one = new NumberGraphic(1);

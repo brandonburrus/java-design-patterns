@@ -1,5 +1,8 @@
 package com.brandonburrus.designpatterns.creational.factorymethod;
 
+/**
+ * The type Abstract document.
+ */
 public abstract class AbstractDocument implements Document {
 
     @Override
